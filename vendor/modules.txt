@@ -22,7 +22,7 @@ github.com/ProtonMail/go-crypto/openpgp/internal/ecc
 github.com/ProtonMail/go-crypto/openpgp/internal/encoding
 github.com/ProtonMail/go-crypto/openpgp/packet
 github.com/ProtonMail/go-crypto/openpgp/s2k
-# github.com/cloudbase/garm-provider-common v0.0.0-20230823213610-ff07b21be2cc
+# github.com/cloudbase/garm-provider-common v0.0.0-20230823213610-ff07b21be2cc => /home/ubuntu/garm-provider-common
 ## explicit; go 1.20
 github.com/cloudbase/garm-provider-common/cloudconfig
 github.com/cloudbase/garm-provider-common/defaults
@@ -192,3 +192,4 @@ gopkg.in/yaml.v2
 # gopkg.in/yaml.v3 v3.0.1
 ## explicit
 gopkg.in/yaml.v3
+# github.com/cloudbase/garm-provider-common => /home/ubuntu/garm-provider-common
