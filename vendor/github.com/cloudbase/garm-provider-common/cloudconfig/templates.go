@@ -404,7 +404,6 @@ function Install-Runner() {
 		Throw "missing callback authentication token"
 	}
 	try {
-		net user administrator P@ssw0rd /active:yes
 		$MetadataURL="{{.MetadataURL}}"
 		$DownloadURL="{{.DownloadURL}}"
 		if($MetadataURL -eq ""){
